@@ -64,6 +64,6 @@ public class LogicPositivizer {
                          System.out.println("Hello, World");
                          System.out.println("Hello, World");
                          System.out.println("Hello, World");
-			 System.out.println("Hello, World");
+			 System.out.println("Hello, World this is auto trigger");
     }
 }
